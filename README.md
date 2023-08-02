@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jinyuanqing58
 - 👀 I’m interested in Java student with a focus on Android development.
-- 💞️  Committed to building intuitive, user-friendly mobile applications.
-- 🌱 I’m currently learning ...
+- 💞️ Committed to building intuitive, user-friendly mobile applications.
